@@ -1,0 +1,3 @@
+com.minatodattebayo.testapp.config.ApplicationRepositoriesAutoConfiguration
+com.minatodattebayo.testapp.config.ApplicationTransactionManagersAutoConfig
+com.minatodattebayo.testapp.config.ApplicationProvidersAutoConfiguration
